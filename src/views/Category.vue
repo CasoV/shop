@@ -1,5 +1,5 @@
 <template>
-    <div>首页</div>
+    <div>分类</div>
 </template>
 <script>
 export default {
@@ -8,4 +8,4 @@ export default {
 </script>
 <style lang="scss">
 
-</style> 
+</style>
